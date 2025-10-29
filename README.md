@@ -51,8 +51,10 @@
 
 </div>
 
-<a href="https://github.com/ashwani1014">
-  <img alt="Ashwani's GitHub contributions" src="https://github.com/users/ashwani1014/contributions" />
+ <p align="center">
+  <img src="https://github.com/users/ashwani1014/contributions" alt="Ashwani's contributions" />
+</p>
+
 </a>
 
 </details>
