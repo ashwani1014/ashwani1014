@@ -51,9 +51,9 @@
 
 </div>
 
- <p align="center">
-  <img src="https://github.com/users/ashwani1014/contributions" alt="Ashwani's contributions" />
-</p>
+ 
+  <img alt="Ashwani's Contribution Calendar" src="https://contrib.rocks/image?username=ashwani1014&range=year&theme=github-dark" />
+</a>
 
 </a>
 
