@@ -51,8 +51,9 @@
 
 </div>
 
-<a href="https://github.com/ashwani1014/github-readme-activity-graph"><img alt="Ashwani's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ashwani1014&theme=github-dark"/></a>
-
+<a href="https://github.com/ashwani1014">
+  <img alt="Ashwani's GitHub contributions" src="https://github.com/users/ashwani1014/contributions" />
+</a>
 
 </details>
  
