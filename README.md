@@ -42,7 +42,7 @@
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwani1014&show_icons=true&locale=en&layout=compact" alt="ashwani1014" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashwani1014&show_icons=true&locale=en" alt="ashwani1014" /></p>
+ 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwani1014&" alt="ashwani1014" /></p>
 ## Contributions (3D View)
