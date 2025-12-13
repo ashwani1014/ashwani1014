@@ -9,13 +9,14 @@
 
 ## 🌱I'm currently learning 
 - Programming Language
+-OOPs
 - Data Structure ⚛
   
 ## 🔭 I'm working on
-- Python Projects 💼 
+- MERN Projects 💼 
 
 ## 💬 Ask me about
-- Pyhthon , C programming language
+- JAVA programming language
 - Digital trading 
 
 ### ⚡ Fun fact 
