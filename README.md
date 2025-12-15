@@ -12,6 +12,8 @@
   
 ## 🔭 I'm working on
 - MERN Projects 💼 
+- Redux 
+- NextJs
 
 ## 💬 Ask me about
 - JAVA programming language
