@@ -50,9 +50,10 @@
 <a href="https://github.com/ashwani1014">
   <img
     alt="Ashwani's Contribution Calendar"
-    src="https://contrib.rocks/image?username=ashwani1014&range=year&theme=github-dark&bg_color=0d1117&color=2ea043"
+    src="https://contrib.rocks/image?username=ashwani1014&range=year&bg_color=000000&color=00ff5f"
   />
 </a>
+
 
 
 </a>
