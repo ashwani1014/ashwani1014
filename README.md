@@ -48,8 +48,12 @@
 
  
 <a href="https://github.com/ashwani1014">
-  <img alt="Ashwani's Contribution Calendar" src="https://contrib.rocks/image?username=ashwani1014&range=year&theme=github-dark" />
+  <img
+    alt="Ashwani's Contribution Calendar"
+    src="https://contrib.rocks/image?username=ashwani1014&range=year&theme=github-dark&bg_color=0d1117&color=2ea043"
+  />
 </a>
+
 
 </a>
 
