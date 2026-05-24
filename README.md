@@ -123,12 +123,28 @@
 </div>
 
  
-<a href="https://github.com/ashwani1014">
-  <img
-    alt="Ashwani's Contribution Calendar"
-    src="https://contrib.rocks/image?username=ashwani1014&range=year&bg_color=000000&color=00ff5f"
-  />
-</a>
+ 
+ 
+## 📅 Contribution Calendar
+
+<p align="center">
+
+<img src="https://ghchart.rshah.org/58a6ff/ashwani1014" alt="Ashwani Contribution Chart"/>
+
+</p>
+ 
+
+
+
+
+ 
+
+
+ 
+
+ 
+
+ 
 
 
 
