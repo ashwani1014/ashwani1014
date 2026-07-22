@@ -1,30 +1,65 @@
+<h1 align="center">Hi 👋, I'm Ashwani Yadav</h1>
 
- <h1 align="center">Hi 👋, I'm Ashwani Yadav</h1>
-<h3 align="center">I passionate to learning skills and Programming Language </h3>
-<img align="right" alt="Coding" width="400"src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
+<h3 align="center">
+Full Stack Software Developer | Java & Spring Boot | MERN Stack | Building Scalable Web Applications
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwani1014&label=Profile%20views&color=0e75b6&style=flat" alt="ashwani1014" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ashwani1014&label=Profile%20Views&color=0e75b6&style=flat" alt="ashwani1014" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech Computer Science Student 
+- 💼 Software Development experience at **ZIVV**, **Divine Venture**, and **Sprite Genix**
+- 🌱 Passionate about building scalable **Full Stack Applications**
+- 💡 Strong interest in **Backend Engineering**, **System Design**, and **Cloud Technologies**
+- 🧠 Solved **700+ DSA Problems** across coding platforms
+- 🏆 2nd Place Winner - College Hackathon
+- ⚡ Always learning and building real-world software
+
+---
 
 ## 🌱 Currently Learning
 
-* Data Structures & Algorithms 📚
-* System Design 🏗️
-* Object Oriented Programming (OOP) ☕
+- Spring Boot & Microservices
+- System Design
+- Redis & Docker
+- AWS Cloud
+- Advanced Data Structures & Algorithms
+
+---
 
 ## 🔭 Currently Working On
 
-* MERN Stack 💻
-* React & Redux ⚛️
-* Backend Development 🌐
-* FullStack Development
+- 🚀 Full Stack Applications
+- 🤖 AI-powered Web Applications
+- MERN Stack Projects
+- Spring Boot REST APIs
+- Backend Architecture & Performance Optimization
 
-## 💬 Ask me about
-- JAVA programming language
-- Digital trading 
+---
 
-### ⚡ Fun fact 
--  *The name “GitHub” originates from the term “git” – a popular open-source version control system created by Linus Torvalds*
- 
+## 💬 Ask Me About
+
+- Java
+- Spring Boot
+- MERN Stack
+- REST APIs
+- MongoDB & MySQL
+- React.js
+- Node.js
+- Data Structures & Algorithms
+
+---
+
+## ⚡ Fun Fact
+
+> I enjoy transforming ideas into real-world software and continuously improving my development skills through projects, problem-solving, and open-source learning.
 ## 📫 Contact Me
 
 <p align="left">
