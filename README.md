@@ -1,194 +1,182 @@
 <h1 align="center">Hi 👋, I'm Ashwani Yadav</h1>
 
 <h3 align="center">
-Full Stack Software Engineer • Java Backend Developer • Aspiring Software Development Engineer (SDE)
+Full Stack Software Developer | Java & Spring Boot | MERN Stack | Building Scalable Web Applications
 </h3>
 
-<p align="center">
-Building scalable applications • Solving DSA • Exploring System Design & Cloud
-</p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
 
-
-
-<img src="https://komarev.com/ghpvc/?username=ashwani1014&style=for-the-badge&color=blue"/>
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ashwani1014&label=Profile%20Views&color=0e75b6&style=flat" alt="ashwani1014" />
 </p>
 
 ---
 
-<img align="right" width="380" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
+## 🚀 About Me
 
-# 🚀 About Me
-
-- 🎓 B.Tech Computer Science Student
-- 💼 Full Stack Software Engineer
-- 💻 Software Development Experience at **ZIVV**, **Divine Venture**, and **Sprite Genix**
-- 🚀 Passionate about scalable software, backend systems, and distributed applications
-- 🧠 Solved **700+ DSA Problems**
-- 🏆 College Hackathon Runner-Up
-- 🌱 Currently learning **Microservices**, **System Design**, **Docker**, **Redis**, and **AWS**
-- 💡 Interested in **Backend Engineering**, **Cloud Computing**, and **Software Architecture**
-- 🎯 Looking for **Software Development Engineer (SDE)** opportunities
+- 🎓 B.Tech Computer Science Student 
+- 💼 Software Development experience at **ZIVV**, **Divine Venture**, and **Sprite Genix**
+- 🌱 Passionate about building scalable **Full Stack Applications**
+- 💡 Strong interest in **Backend Engineering**, **System Design**, and **Cloud Technologies**
+- 🧠 Solved **700+ DSA Problems** across coding platforms
+- 🏆 2nd Place Winner - College Hackathon
+- ⚡ Always learning and building real-world software
 
 ---
 
-# 🛠 Tech Stack
+## 🌱 Currently Learning
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,nodejs,express,mongodb,mysql,redis,docker,aws,git,github,linux,postman,html,css,js,ts,tailwind,vscode,python"/>
-
-</p>
-
----
-
-# 🌱 Currently Learning
-
-- Spring Boot Microservices
+- Spring Boot & Microservices
 - System Design
-- Docker
-- Kubernetes
-- Redis
+- Redis & Docker
 - AWS Cloud
 - Advanced Data Structures & Algorithms
 
 ---
 
-# 🚀 Current Focus
+## 🔭 Currently Working On
 
-- Building Scalable Full Stack Applications
-- Backend Development with Java & Spring Boot
-- System Design
-- Open Source Contributions
-- DSA & Competitive Programming
+- 🚀 Full Stack Applications
+- 🤖 AI-powered Web Applications
+- MERN Stack Projects
+- Spring Boot REST APIs
+- Backend Architecture & Performance Optimization
 
 ---
 
-# 📊 GitHub Analytics
+## 💬 Ask Me About
 
-<p align="center">
+- Java
+- Spring Boot
+- MERN Stack
+- REST APIs
+- MongoDB & MySQL
+- React.js
+- Node.js
+- Data Structures & Algorithms
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ashwani1014&show_icons=true&theme=github_dark&hide_border=true"/>
+---
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwani1014&layout=compact&theme=github_dark&hide_border=true"/>
+## ⚡ Fun Fact
+
+> I enjoy transforming ideas into real-world software and continuously improving my development skills through projects, problem-solving, and open-source learning.
+## 📫 Contact Me
+
+<p align="left">
+
+📧 Email: **ashwani811511@gmail.com**
 
 </p>
 
-<p align="center">
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwani1014&theme=github-dark-blue&hide_border=true"/>
+## 🏆 GitHub Achievements
+
+<p align="left">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ashwani1014&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15"/>
 
 </p>
  
 
-# 🏆 GitHub Achievements
 
-<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ashwani1014&theme=algolia&no-frame=true&margin-w=15&margin-h=15&row=2&column=4"/>
-
+ <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/ashwani-yadav9792/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashwani-yadav9792/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_ashwani_9792/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_ashwani_9792/" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
 
-# 📊 Profile Summary
+<p align="left">
 
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashwani1014&theme=github_dark"/>
-
-</p>
-
----
-
-# 📌 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🐶 BreedWise AI | AI-powered Full Stack Dog Adoption Platform |
-| 💬 Distributed Chat | Spring Boot + Redis + WebSocket Real-Time Chat |
-| 🔗 BitShort | URL Shortener using Redis Cache |
-| 🏢 Yellow Listing | Business Listing Platform |
-| 🌐 Portfolio | Personal Portfolio Website |
-
----
-
-# 💻 Coding Profiles
-
-<p align="center">
-
-<a href="https://github.com/ashwani1014">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </a>
 
-<a href="https://leetcode.com/u/ashwani1014/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
 
-<a href="https://www.linkedin.com/in/ashwani-yadav9792/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://react.dev/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </a>
 
-<a href="mailto:ashwani811511@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
 </a>
 
-</p>
-
----
-
-# 💬 Ask Me About
-
-- Java
-- Spring Boot
-- REST APIs
-- Backend Development
-- React.js
-- Node.js
-- MongoDB
-- MySQL
-- Docker
-- System Design
-- DSA
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/ashwani-yadav9792">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
 </a>
 
-<a href="mailto:ashwani811511@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 </a>
 
-<a href="https://github.com/ashwani1014">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</a>
+
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+</a>
+
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+</a>
+
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </a>
 
 </p>
 
----
 
-# 💡 Favorite Quote
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwani1014&" alt="ashwani1014" /></p>
+## Contributions (3D View)
+<detail>
+<div align="center">
 
-<p align="center">
+</div>
 
-### "First, solve the problem. Then, write the code."
+ 
+ 
+ 
+ 
 
-</p>
 
----
 
-<p align="center">
 
-### ⭐ Thanks for visiting my profile!
+ 
 
-**If you like my work, don't forget to ⭐ my repositories.**
 
-🚀 Happy Coding!
+ 
 
-</p>
+ 
+
+ 
+
+
+
+</a>
+
+</details>
+ 
