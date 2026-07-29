@@ -160,13 +160,6 @@ Full Stack Software Developer | Java & Spring Boot | MERN Stack | Building Scala
  
  
  
-## 📅 Contribution Calendar
-
-<p align="center">
-
-<img src="https://ghchart.rshah.org/58a6ff/ashwani1014" alt="Ashwani Contribution Chart"/>
-
-</p>
  
 
 
