@@ -162,7 +162,7 @@ Full Stack Software Developer | Java & Spring Boot | MERN Stack | Building Scala
  
  
 
-<img src="https://ghchart.rshah.org/ashwani1014" alt="Ashwani Yadav GitHub Contributions" />
+<!-- <img src="https://ghchart.rshah.org/ashwani1014" alt="Ashwani Yadav GitHub Contributions" /> -->
 
 
  
