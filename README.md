@@ -149,10 +149,11 @@ Full Stack Software Developer | Java & Spring Boot | MERN Stack | Building Scala
 
 </p>
 
-<p align="center">
+<p>
   <img
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=ashwani1014"
-    alt="GitHub Streak"
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ashwani1014&"
+    alt="ashwani1014"
   />
 </p>
 
