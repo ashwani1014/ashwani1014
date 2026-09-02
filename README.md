@@ -15,7 +15,7 @@ Full Stack Software Developer | Java & Spring Boot | MERN Stack | Building Scala
 ## 🚀 About Me
 
 - 🎓 B.Tech Computer Science Student 
-- 💼 Software Development experience at **ZIVV**, **Divine Venture**, and **Sprite Genix**
+- 💼 Software Development experience at **ZIVV**,  and **The Boring Education **
 - 🌱 Passionate about building scalable **Full Stack Applications**
 - 💡 Strong interest in **Backend Engineering**, **System Design**, and **Cloud Technologies**
 - 🧠 Solved **200+ DSA Problems** across coding platforms
